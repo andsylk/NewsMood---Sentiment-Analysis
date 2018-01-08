@@ -22,10 +22,10 @@ import seaborn as sns
 
 ```python
 # Twitter API Keys
-consumer_key = "krdOGefg7BbPtKaNCo39OFMZS"
-consumer_secret = "dMKfntshPPoukL0CxZxU3sGDAFZbPtch7QEe3yE07Cs0e15Djp"
-access_token = "942946741371879425-xGo4Z7ccY4VC8Gfn5fb3ObAERczqhWo"
-access_token_secret = "FbrJdPDKuZRWadW8k5Uw5b5xgZ37Kz7RZqfFTrRQlYowg"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 # Setup Tweepy API Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
