@@ -1,5 +1,10 @@
 
 ### News Mood Analysis
+
+#### Summary of Project
+Using Python, Twitter API, I will perform a sentiment analysis of the Twitter activity of the various news following news organizations: BBC, CBS, CNN, Fox, and New York Times and then present my findings visually.
+
+
 #### Observed Trends
 
 #### 1) The average compound score for all the news organizations show a neutral sentiment with average compound scores ranging from -0.08 to 0.40.
