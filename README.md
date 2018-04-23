@@ -2,7 +2,7 @@
 ### News Mood Analysis
 
 #### Summary of Project
-Using Python, Twitter API, I will perform a sentiment analysis of the Twitter activity of the various news following news organizations: BBC, CBS, CNN, Fox, and New York Times and then present my findings visually.
+Using Python, Twitter API,and MatplotLib, I performed a sentiment analysis of the Twitter activity of the various news following news organizations: BBC, CBS, CNN, Fox, and New York Times and then present my findings visually.
 
 
 #### Observed Trends
